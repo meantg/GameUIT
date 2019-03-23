@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{d0c90fb6-de23-43ed-9428-d398318e32d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player\State">
+      <UniqueIdentifier>{6490298d-28a8-48da-9e00-52b766e632b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SourceFrameWork">
+      <UniqueIdentifier>{f5be56b9-5cc3-4a8c-9b95-4bb480df1e75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WindowInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameGlobal.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScene.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Textures.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SpritesManager.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>SourceFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackState.cpp">
+      <Filter>Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="ClimbState.cpp">
+      <Filter>Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpState.cpp">
+      <Filter>Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="RunState.cpp">
+      <Filter>Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="SitState.cpp">
+      <Filter>Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="StandState.cpp">
+      <Filter>Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="GameGlobal.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScene.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SpritesManager.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerState.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerHandler.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="RunState.h">
+      <Filter>Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpState.h">
+      <Filter>Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="StandState.h">
+      <Filter>Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="SitState.h">
+      <Filter>Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="ClimbState.h">
+      <Filter>Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackState.h">
+      <Filter>Player\State</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

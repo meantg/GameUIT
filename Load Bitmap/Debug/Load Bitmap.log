@@ -1,0 +1,49 @@
+﻿  AttackState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  ClimbState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\game.cpp(61): warning C4018: '>=': signed/unsigned mismatch
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\game.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  JumpState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  Player.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  PlayScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(149): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(170): error C2664: 'void Player::SetState(State)': cannot convert argument 1 from 'int' to 'State'
+  e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(170): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(172): error C2664: 'void Player::SetState(State)': cannot convert argument 1 from 'int' to 'State'
+  e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(172): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(174): error C2664: 'void Player::SetState(State)': cannot convert argument 1 from 'int' to 'State'
+  e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(174): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(176): error C2664: 'void Player::SetState(State)': cannot convert argument 1 from 'int' to 'State'
+  e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(176): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(178): error C2664: 'void Player::SetState(State)': cannot convert argument 1 from 'int' to 'State'
+  e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(178): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(180): error C2664: 'void Player::SetState(State)': cannot convert argument 1 from 'int' to 'State'
+  e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\playscene.cpp(180): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+  RunState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  SceneManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  SitState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  StandState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  WindowInit.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\bai tap\nam 2\gameeee\new folder\load bitmap\load bitmap\gameglobal.h(56): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  Generating Code...

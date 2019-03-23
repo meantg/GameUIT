@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Load Bitmap", "Load Bitmap\Load Bitmap.vcxproj", "{D170A682-09AD-4284-B9E1-4224B25BAF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Debug|x64.ActiveCfg = Debug|x64
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Debug|x64.Build.0 = Debug|x64
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Debug|x86.ActiveCfg = Debug|Win32
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Debug|x86.Build.0 = Debug|Win32
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Release|x64.ActiveCfg = Release|x64
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Release|x64.Build.0 = Release|x64
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Release|x86.ActiveCfg = Release|Win32
+		{D170A682-09AD-4284-B9E1-4224B25BAF56}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EDE71D-E634-4E4D-BC2C-EB2D1302E589}
+	EndGlobalSection
+EndGlobal
